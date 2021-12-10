@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lapr1MergedProject:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="lapr1MergedProject.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../../META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="lapr1MergedProject" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dist/lib/la4j-0.5.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/artifacts/lapr1MergedProject_jar/lapr1MergedProject.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/la4j-0.5.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

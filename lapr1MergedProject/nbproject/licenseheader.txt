@@ -1,0 +1,7 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Projeto de lapr1
+<#if licenseLast??>
+${licenseLast}
+</#if>

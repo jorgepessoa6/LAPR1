@@ -1,0 +1,7 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Projeto de Lapr1 - StaticVoid
+<#if licenseLast??>
+${licenseLast}
+</#if>

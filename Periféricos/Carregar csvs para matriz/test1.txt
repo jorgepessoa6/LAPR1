@@ -1,0 +1,8 @@
+id, media, media.type, type.label
+
+s01, NY Times, 1, Newspaper
+s02, Washington Post, 1, Newspaper
+s03, Wall Street Journal, 1, Newspaper
+s04, ABC, 2, TV
+s05, BBC, 2, TV
+s06, Yahoo News, 3, Online
